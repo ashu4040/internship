@@ -1,0 +1,54 @@
+.image_button_container{
+    position: relative;
+    
+}
+.button_img{
+    position: absolute;
+  top: 65%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+   /* color: white; */
+  font-size: 16px;
+  padding: 12px 60px;
+  border: 2px solid white;
+  cursor: pointer;
+  border-radius: 30px;
+  color: white;
+}
+
+.carousel-inner{
+    max-height: 94vh;
+}
+
+.p1{
+    width: 100%;
+    max-height: 100vh;
+}
+.pg-2{
+    width: 100%;
+
+}
+
+.pg-3{
+    width: 100%;
+    min-height: 100vh;
+    
+}
+
+.nav_options:hover{
+border: 1px solid green;
+}
+
+
+.ri-plant-fill{
+color: green;
+font-size: 35px;
+}
+
+footer{
+    color: white;
+}
+ footer a {
+    color: white !important;
+ }
